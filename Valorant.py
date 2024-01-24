@@ -132,4 +132,4 @@ async def commands(ctx):
 
     await ctx.send(embed=embed)
 
-bot.run("ODU0NzY1MTk2NTUwOTk1OTc5.YMosHw.OPVh87cwICnN2Xl06FZu8hh8Hrc")
+bot.run("token")
